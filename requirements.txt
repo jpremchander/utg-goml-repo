@@ -1,0 +1,9 @@
+fastapi==0.110.2
+python-dotenv==1.0.1
+boto3==1.34.131
+llama-index==0.10.58
+uvicorn==0.30.1
+pydantic==2.8.2
+llama-index-llms-bedrock==0.1.12
+llama-index-embeddings-bedrock==0.2.1
+aiofiles==24.1.0
